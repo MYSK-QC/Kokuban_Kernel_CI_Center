@@ -199,7 +199,7 @@
   "mi17_sm8850": {
     "repo": "MYSK-QC/android_kernel_xiaomi_sm8850",
     "defconfig": "defconfig",
-    "localversion_base": "-android16",
+    "localversion_base": "-android16-MYSK",
     "supported_ksu": [
       "resukisu",
       "mksu",
